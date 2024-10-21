@@ -6,8 +6,10 @@ A simple cross-platform OpenGL map visualization utilizing the MapBox API. Both 
 
 ---
 ##iOS build
+
 For iOS just open the `MapCanvas.xcworkspace` and run `MapDemo` the apiKey needs to be added to the `ViewController.swift` in the `apiKey` variable.
 
 ---
 ##Android build
+
 For iOS just open the android project in the demos/android folder, adding the `apiKey` in `MainActivity.kt` and running the application.
